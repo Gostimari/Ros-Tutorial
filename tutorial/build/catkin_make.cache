@@ -1,2 +1,0 @@
-stage_tutorial
--DCATKIN_DEVEL_PREFIX=/home/duarte/tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/duarte/tutorial/install -G Unix Makefiles
